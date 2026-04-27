@@ -1,0 +1,19 @@
+{
+  "name": "MERKUR SPIELBANK Hohensyburg",
+  "short_name": "MERKUR SPIELBANK Hohensyburg",
+  "theme_color": "",
+  "background_color": "#022652",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1777288172-favicon-79.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
